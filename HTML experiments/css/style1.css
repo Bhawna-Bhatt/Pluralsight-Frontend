@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+    margin:0;
+}
+header{
+    background-color:rgba(101, 140, 187,1);
+    text-align: center;
+    padding:1px;
+    
+}
+footer{
+    background-color: lightyellow;
+    text-align: center;
+    width:100%; 
+    padding: 1px;
+    display: flex;
+    
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+    min-height: 100%;
+
+}
